@@ -16,10 +16,12 @@
     font-family: "Ilisarniq";
     font-weight: bold;
     src: url("/font/IlisarniqBold.ttf") format("truetype");
+    font-style: normal;
 }
 
 @font-face {
     font-family: "Ilisarniq";
     font-weight: bolder;
     src: url("/font/IlisarniqBlack.ttf") format("truetype");
+    font-style: normal;
 }
