@@ -1,27 +1,27 @@
 @font-face {
     font-family: "Ilisarniq";
     font-weight: 400;
-    src: url("/font/IlisarniqRegular.ttf") format("truetype");
+    src: url("/font/IlisarniqRegular.ttf") format("truetype"), url("/font/IllisarniqRegular.woff") format("woff");
     font-style: normal;
 }
 
 @font-face {
     font-family: "Ilisarniq";
     font-weight: normal;
-    src: url("/font/IlisarniqDemi.ttf") format("truetype");
+    src: url("/font/IlisarniqDemi.ttf") format("truetype"), url("/font/IllisarniqDemi.woff") format("woff");
     font-style: normal;
 }
 
 @font-face {
     font-family: "Ilisarniq";
     font-weight: bold;
-    src: url("/font/IlisarniqBold.ttf") format("truetype");
+    src: url("/font/IlisarniqBold.ttf") format("truetype"), url("/font/IllisarniqBold.woff") format("woff");
     font-style: normal;
 }
 
 @font-face {
     font-family: "Ilisarniq";
     font-weight: bolder;
-    src: url("/font/IlisarniqBlack.ttf") format("truetype");
+    src: url("/font/IlisarniqBlack.ttf") format("truetype"), url("/font/IllisarniqBlack.woff") format("woff");
     font-style: normal;
 }
